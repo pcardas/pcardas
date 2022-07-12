@@ -10,7 +10,7 @@
 ### ✨ About Me
 
 - Technology passionate.
-- Always looking for new adventures.
+- Always looking for new challenges.
 - Learning is power.
 
 ## 📓 Some cool Github Stats
