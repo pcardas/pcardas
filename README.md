@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 <div align="center">
-    <ul align="left">
+    <ul align="left" width="41%">
       <li> Technology passionate.</li>
       <li> Always looking for new challenges.</li>
       <li> Learning is power.</li>
