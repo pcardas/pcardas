@@ -7,17 +7,14 @@
 
 ---
 
+  <img align="right" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcardas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
 ## ✨ About Me
 
-<div align="center">
-    <ul align="left" width="41%">
+  <div width="41%">
+    <ul align="left" width="50%">
       <li> Technology passionate.</li>
       <li> Always looking for new challenges.</li>
       <li> Learning is power.</li>
     </ul>
-  <img align="right" width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcardas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-## 📓 Some cool Github Stats
-
-
+  </div>
