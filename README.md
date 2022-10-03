@@ -9,18 +9,12 @@
 
 ## ✨ About Me
 
-- Technology passionate.
-- Always looking for new challenges.
-- Learning is power.
-
 <div align="center">
-  <div>
     <ul>
       <li>- Technology passionate.</li>
       <li>- Always looking for new challenges.</li>
       <li>- Learning is power.</li>
     </ul>
-  </div>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcardas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
