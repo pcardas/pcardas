@@ -6,12 +6,9 @@
 <p>I am from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Abrantes, Portugal</b>, but I am currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Porto, Portugal</b>. </p>
 <div algin="center">
 
-<div height=165>
-![Cardas's GitHub stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=pcardas&count_private=true&theme=swift&layout=compact)
-</div>
-  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcardas&count_private=true&theme=swift&layout=compact" alt="Cardas's  Language stats" />
+  <img height=165 src="https://github-readme-stats-pcardas.vercel.app/api/top-langs/?username=pcardas&count_private=true&theme=swift&layout=compact" alt="Cardas's  Language stats" />
   </a>
 
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=pcardas&theme=swift&show_icons=true&count_private=true" alt="Cardas's Language stats" />
+  <img height=165 src="https://github-readme-stats-pcardas.vercel.app/api?username=pcardas&theme=swift&show_icons=true&count_private=true" alt="Cardas's Language stats" />
   </a>
 </div>
