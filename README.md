@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my profile! </br> My name is <b>Pedro Cardador</b>, but people call me <b>Cardas</b>.</p>
-<p>I am currently studying at the unic && wonderfull <b>< Academia de Código /></b> where I am making my way to become a <b>Fullstack developer</b>.</p>
+<p>I am currently studying at the unique && wonderfull <b>< Academia de Código /></b> where I am making my way to become a <b>Fullstack developer</b>.</p>
 <p>I am from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Abrantes, Portugal</b>, but I am currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Porto, Portugal</b>. </p>
 <div algin="center">
 
