@@ -7,7 +7,7 @@
 
 - 📍 I am from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Abrantes, Portugal</b>, but I am currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Porto, Portugal</b>.
 
-- 📚 I’m currently learning about **Java**
+- 📚 I’m currently learning **Java**
 
 - ☕ In my free time I like: Running 🏃🏼‍♂️ Playing Games 🎮 Hang out and meet new people 🕺🏻
 
