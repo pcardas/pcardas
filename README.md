@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Cardador</h1>
 <h3 align="center">Making my way to become a (successful) <i>Fullstack Developer</i> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pcardas&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 
 - 🎓 Studying at the unique && wonderfull <i>< Academia de Código /></i>
 
