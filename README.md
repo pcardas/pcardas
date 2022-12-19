@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Netsujr">
+  <a href="https://github.com/pcardas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcardas&count_private=true&theme=dark&layout=compact" alt="Cardas Language stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pcardas&theme=dark&show_icons=true&count_private=true" alt="Cardas Language stats" />
 </div>
