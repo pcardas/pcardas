@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pedro Cardador</h1>
-<h3 align="center">Making my way to become a (successful) <i>Fullstack Developer</i> </h3>
+<h3 align="center">Making my way to improve myself as a (successful) <i>Fullstack Developer</i> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pcardas&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 
-- 🎓 Studying at the unique && wonderfull <i>< Academia de Código /></i>
+- 🎓 Studied at the unique && wonderfull <i>< Academia de Código /></i>
 
 - 📍 I am from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Abrantes, Portugal</b>, but I am currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Porto, Portugal</b>.
 
-- 📚 I’m currently learning **Java**
+- 📚 I’m currently learning **Ruby on Rails**, **Angular** && **React**
 
 - ☕ In my free time I like: Running 🏃🏼‍♂️ Playing Games 🎮 Hang out and meet new people 🕺🏻
 
